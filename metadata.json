@@ -1,0 +1,15 @@
+{
+  "name": "Blastoff",
+  "symbol": "BLAST",
+  "uri": "https://GoyimBlastoff.github.io/blastoff-metadata/",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "AL1Bhdcg8R4mf1ShNpzA4BWLkizcJztC3HoTj9w36oCg",
+      "share": 100
+    }
+  ],
+  "collection": null,
+  "uses": null,
+  "updateAuthority": "AL1Bhdcg8R4mf1ShNpzA4BWLkizcJztC3HoTj9w36oCg"
+}
